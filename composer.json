@@ -1,5 +1,5 @@
 {
-	"name":"ebiz/typo3flowdoctrineextensions",
+	"name":"ebiz/typo3-flow-doctrine-extensions",
 	"type":"library",
 	"description":"",
 	"require":{
