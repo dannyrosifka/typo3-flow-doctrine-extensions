@@ -1,0 +1,14 @@
+{
+	"name":"ebiz/typo3flowdoctrineextensions",
+	"type":"library",
+	"description":"",
+	"require":{
+		"typo3\/flow":"*",
+		"gedmo/doctrine-extensions": "2.3.*"
+	},
+	"autoload":{
+		"psr-0":{
+			"Ebiz\\TYPO3FlowDoctrineExtensions":"Classes"
+		}
+	}
+}
